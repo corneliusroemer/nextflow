@@ -30,6 +30,7 @@ import nextflow.util.CheckHelper
  *
  * @author Paolo Di Tommaso <paolo.ditommaso@gmail.com>
  */
+@Deprecated
 @CompileStatic
 class PhaseOp {
 
